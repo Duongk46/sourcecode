@@ -1,0 +1,14 @@
+D:\tailieu\job-1\source\Entities\bin\Debug\net6.0\Entities.deps.json
+D:\tailieu\job-1\source\Entities\bin\Debug\net6.0\Entities.runtimeconfig.json
+D:\tailieu\job-1\source\Entities\bin\Debug\net6.0\Entities.dll
+D:\tailieu\job-1\source\Entities\bin\Debug\net6.0\Entities.pdb
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\Entities.csproj.AssemblyReference.cache
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\Entities.dll
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\refint\Entities.dll
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\Entities.pdb
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\Entities.genruntimeconfig.cache
+D:\tailieu\job-1\source\Entities\obj\Debug\net6.0\ref\Entities.dll
